@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lucas-I-Marciano
-- 👀 I’m interested in learning more about develop collaborative python scripts, do some Freelance
-- 🌱 I’m currently learning python, Power BI and JavaScript soon
-- 💞️ I’m looking to collaborate on python scripts
+- 👀 I’m interested in learning more about develop collaborative programming
+- 🌱 I’m currently learning python, Power BI and JavaScript
+- 💞️ I’m looking to collaborate on JavaScript or Python scripts
 - 📫 How to reach me: lucas.marciano99@outlook.com
 
 <!---
