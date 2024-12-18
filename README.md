@@ -12,6 +12,8 @@ https://github.com/user-attachments/assets/f6d78561-d69c-446d-8049-30b37f2af16f
 <a style="text-align:center;" href="https://github.com/Lucas-I-Marciano/film-list">Film List</a>
 <img src="https://github.com/Lucas-I-Marciano/film-list/raw/master/img/index.png">
 
+<a style="text-align:center;" href="https://github.com/Lucas-I-Marciano/api_authentication">Store API and Authentication</a>
+
 <a style="text-align:center;" href="https://www.linkedin.com/posts/lucas-ioran-marciano_database-api-postgresql-activity-7210102168161308672-Fkdb/">API: Library Store and General Store</a>
 
 Linkedin Video above
