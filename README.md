@@ -24,7 +24,13 @@ I'm proud to highlight my commitment to self-development and growth, which has b
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Must-See Repositories
+## Must-See Repositories and Project
+
+- Book repository with AI
+  
+https://github.com/user-attachments/assets/90527bbf-39d5-4409-b039-d55814d4fe1a
+
+
 
 - [FastAPI Learning Project](https://github.com/Lucas-I-Marciano/15.study_fast_api)
 - [Django REST School API](https://github.com/Lucas-I-Marciano/djangoREST-school)
