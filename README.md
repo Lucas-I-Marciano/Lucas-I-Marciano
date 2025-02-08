@@ -8,7 +8,7 @@ Hello! I'm Lucas Ioran Marciano, a dedicated and passionate technology learner w
 
 I'm proud to highlight my commitment to self-development and growth, which has been evident through my numerous project commits and consistent coding practice. I am currently part of a programming mentorship program to sharpen my skills further.
 
-👀 I’m looking to collaborate on JavaScript or Python scripts
+👀 I’m looking to collaborate on JavaScript or Python scripts, and study Artificial Intelligence 
 
 ## Skills
 
@@ -22,7 +22,8 @@ I'm proud to highlight my commitment to self-development and growth, which has b
 
 ### **Basic:**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%230080C6?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ## Must-See Repositories and Project
 
