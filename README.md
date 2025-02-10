@@ -45,6 +45,9 @@ https://github.com/user-attachments/assets/f6d78561-d69c-446d-8049-30b37f2af16f
 
 <img src="https://github.com/Lucas-I-Marciano/film-list/raw/master/img/index.png">
 
+## Study Repositories
+I organize my study repositories locations in a separate location to keep things well-structured. You can find all my learning projects here: [Study Repository](https://github.com/Lucas-I-Marciano/Lucas-I-Marciano/tree/main/study). Feel free to explore and follow along with my coding journey!
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ioran-marciano/)
