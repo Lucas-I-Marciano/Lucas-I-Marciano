@@ -34,7 +34,13 @@ https://github.com/user-attachments/assets/90527bbf-39d5-4409-b039-d55814d4fe1a
 
 
 - [FastAPI Learning Project](https://github.com/Lucas-I-Marciano/15.study_fast_api)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 - [Django REST School API](https://github.com/Lucas-I-Marciano/djangoREST-school)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 - [Django Template Project](https://github.com/Lucas-I-Marciano/django_template)
 
 ![410632574-e56331c1-53fe-4ca1-b517-a7429a17f5a1](https://github.com/user-attachments/assets/fdec6eac-a132-41d1-8468-f0088c460766)
