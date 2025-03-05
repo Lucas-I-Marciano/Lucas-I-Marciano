@@ -22,7 +22,7 @@ I'm proud to highlight my commitment to self-development and growth, which has b
 
 ### **Basic:**
 
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%230080C6?style=for-the-badge&logo=openai&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%230080C6?style=for-the-badge&logo=openai&logoColor=white) ![Parcel](https://img.shields.io/badge/Parcel-BB4B3B?style=for-the-badge&logo=parcel&logoColor=white)
 
 
 ## Must-See Repositories and Project
