@@ -63,10 +63,10 @@ I organize my study repositories locations in a separate location to keep things
 
 <div align="center">
   <a href="https://github.com/Lucas-I-Marciano">
-    <img alt="Pablo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lucas-I-Marciano&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+    <img alt="Pablo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lucas-I-Marciano&show_icons=true&count_private=true&theme=codestackr&hide_border=true" />
   </a>
   <br />
   <a href="http://www.github.com/Lucas-I-Marciano">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-I-Marciano&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-I-Marciano&theme=codestackr&hide_border=true" />
   </a>
 </div>
