@@ -33,6 +33,7 @@ I'm proud to highlight my commitment to self-development and growth, which has b
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Sequelize](https://img.shields.io/badge/Sequelize-gr?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -41,6 +42,7 @@ I'm proud to highlight my commitment to self-development and growth, which has b
 
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%230080C6?style=for-the-badge&logo=openai&logoColor=white)
 ![Parcel](https://img.shields.io/badge/Parcel-BB4B3B?style=for-the-badge&logo=parcel&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 
 ## Must-See Repositories and Project
