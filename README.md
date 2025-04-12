@@ -1,6 +1,9 @@
 # Lucas Ioran Marciano
 
-![Lucas Ioran Marciano](https://media.licdn.com/dms/image/v2/D4D03AQEUsxuTjXjsmA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726147524261?e=1744243200&v=beta&t=GKhfvvxHr6G_UCjI0y4Bbxl7BP84aaMIxf4w33UZVog)
+<a href="https://www.linkedin.com/in/lucas-ioran-marciano/" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/148652060?v=4" alt="Profile picture - Me in a pale suit wear with a tree on my background" style="width:200px;border-radius: 10px"/>
+</a>
+
 
 ## About Me
 
