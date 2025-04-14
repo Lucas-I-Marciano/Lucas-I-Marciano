@@ -54,7 +54,9 @@ I'm proud to highlight my commitment to self-development and growth, which has b
   
 https://github.com/user-attachments/assets/90527bbf-39d5-4409-b039-d55814d4fe1a
 
+- SaaS Pitch Presentation - I led the backend development using FastAPI
 
+https://github.com/user-attachments/assets/a959fc41-e3a1-45c1-a170-ba408caa6458
 
 - [FastAPI Learning Project](https://github.com/Lucas-I-Marciano/15.study_fast_api)
 
