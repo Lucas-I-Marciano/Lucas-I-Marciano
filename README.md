@@ -6,9 +6,9 @@
 
 ## 👋 About Me
 
-Hello! I'm Lucas Ioran Marciano, a technology enthusiast and self-taught developer with an advanced level in English. My passion for programming drives me to constantly seek new knowledge and enhance my skills.
+Hello! I'm Lucas Ioran Marciano, a technology enthusiast and self-taught developer with an advanced level in English. My passion for programming drives me to constantly seek new knowledge and enhance my skills
 
-I am focused on my continuous development, which is reflected in my dedication to project commits and consistent coding practice. I am currently part of a programming mentorship program to further refine my skills and I'm always looking for challenges that allow me to grow.
+I am focused on my continuous development, which is reflected in my dedication to project commits and consistent coding practice. I am currently part of a programming mentorship program (Borderless Coding - UK Company ®) to further refine my skills and I'm always looking for challenges that allow me to grow
 
 🚀 **Current Interests:**
 * Collaborating on projects using JavaScript or Python.
@@ -23,15 +23,16 @@ Here are some of the technologies I've been working with:
 
 ### **Advanced:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### **Intermediate:**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -52,15 +53,13 @@ Here are some projects that showcase my skills and passion for development:
     * **Description:** An application that allows users to manage and explore a book collection, enhanced with Artificial Intelligence features for recommendations or analysis (if applicable, detail the AI functionality).
     * **Technologies:** (Add main technologies used, e.g., Python, FastAPI, TensorFlow, etc.)
     * **Repository Link:** 
-    * **Preview:**
-        <img src="" alt="Book Repository with AI Project Preview" width="400"/>
+    * **Preview:**  <a href="https://github.com/user-attachments/assets/90527bbf-39d5-4409-b039-d55814d4fe1a" target="_blank">🎬 Watch a video preview of the project</a><br/><em>(Click the link above to see the project in action.</code>)</em>
 
 2.  **🎤 SaaS Pitch Presentation (Backend Lead)**
     * **Description:** I led the backend development for a SaaS product pitch, using FastAPI to build a robust and efficient API.
     * **Technologies:** FastAPI, Python, (other relevant technologies)
     * **Repository/Material Link:** 
-    * **Preview:**
-        <img src="" alt="SaaS Pitch Project Preview" width="400"/>
+    * **Preview:**  <a href="https://github.com/user-attachments/assets/a959fc41-e3a1-45c1-a170-ba408caa6458" target="_blank">🎬 Watch a video preview of the project</a><br/><em>(Click the link above to see the project in action.</code>)</em>
 
 3.  **⚡ FastAPI Learning Project**
     * **Description:** A project dedicated to studying and applying FastAPI concepts by building a complete RESTful API.
@@ -98,9 +97,7 @@ Here are some projects that showcase my skills and passion for development:
 ## 📚 Study Repositories
 
 I keep my study and learning projects organized. You can find them all by exploring my repositories or through this link to the study folder in my profile repository (if applicable):
-* 🔗 [My Study Repositories](https://github.com/Lucas-I-Marciano?tab=repositories&q=study&type=source) (Suggestion: link to a filtered search or a specific repository that aggregates links)
-* Or, if your original link `Lucas-I-Marciano/tree/main/study` contains `.md` files or summaries, you can keep it:
-    * 🔗 [Summary of My Studies](https://github.com/Lucas-I-Marciano/Lucas-I-Marciano/tree/main/study)
+* 🔗 [Summary of My Studies](https://github.com/Lucas-I-Marciano/Lucas-I-Marciano/tree/main/study)
 
 Feel free to explore and follow my learning journey!
 
